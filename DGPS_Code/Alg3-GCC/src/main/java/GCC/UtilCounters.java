@@ -1,0 +1,11 @@
+package GCC;
+
+public enum UtilCounters
+{
+	NUM_INITIAL_NODES,
+	NUM_CLIQUES,
+	NUM_NODES,
+	NUM_CLUSTERS,
+	NUM_CHANGES,
+	NUM_ERRORS
+}
