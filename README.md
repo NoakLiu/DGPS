@@ -1,4 +1,4 @@
-In this research project, I worked under Professor Wentao Zhang to develop a Distributed Graph Processing System (DGPS) based on Hadoop and Java. This research project is conducted in DAIR laboratory of Peking University.
+In this research project, I developed a Distributed Graph Processing System (DGPS) based on Hadoop and Java.
 
 The system architecture is shown as below
 
